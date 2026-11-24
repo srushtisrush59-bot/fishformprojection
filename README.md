@@ -2,7 +2,7 @@
 
 **Tagline:** Smart Monitoring. Safer Fish Farms.
 
-?? **Live Demo:** [fishformprojection.vercel.app](https://fishformprojection.vercel.app/)
+**Live Demo:** [fishformprojection.vercel.app](https://fishformprojection.vercel.app/)
 
 AquaShield AI is a complete demo web application for AI-powered fish farm security and animal intrusion detection. It includes a premium React frontend and a FastAPI backend scaffold/integration for OpenCV + YOLO-based detection workflows.
 
