@@ -1,0 +1,43 @@
+﻿# Dependencies
+node_modules/
+.venv/
+venv/
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment & secrets
+.env
+.env.*
+*.local
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data (generated during detection demos)
+backend/data/uploads/
+backend/data/snapshots/
+backend/data/*.db
