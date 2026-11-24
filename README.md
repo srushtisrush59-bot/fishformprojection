@@ -2,6 +2,8 @@
 
 **Tagline:** Smart Monitoring. Safer Fish Farms.
 
+?? **Live Demo:** [fishformprojection.vercel.app](https://fishformprojection.vercel.app/)
+
 AquaShield AI is a complete demo web application for AI-powered fish farm security and animal intrusion detection. It includes a premium React frontend and a FastAPI backend scaffold/integration for OpenCV + YOLO-based detection workflows.
 
 > **Design reference note:** The requested Pinterest reference (`https://pin.it/5GqWkDT6y`) could not be accessed from this environment, so the UI was not copied from that exact pin. Instead, this build uses an original premium aquaculture/security visual direction (oceanic dark theme, teal/cyan accents, glass cards, responsive layouts, and polished navigation). **If you want the UI refined to match the Pinterest reference precisely, please share a screenshot of the pin and I can adapt the design system, layout, and styling to it.**
@@ -91,3 +93,4 @@ API docs: `http://localhost:8000/docs`
 - Logo combines aquatic (fish) and security/AI (shield) elements in the UI and favicon.
 - Sample fish-farm/camera imagery uses royalty-free Unsplash photos for realistic demonstration visuals.
 - This environment did not have a runnable Python interpreter available, so backend runtime could not be executed here; backend source is fully implemented and ready to run in a Python environment.
+
